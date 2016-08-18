@@ -32,8 +32,9 @@ Institución pública. Dependencia de la UNAM dedicada a impartir cursos y talle
 
 ---
 
-
+* Cazares Fonseca Adrián
 * Cortés Muciño Paola Itzayana
 * Huerta Solís Jesús Eduardo
+* López Valencia Salma Yelena
 * Meneses Ortega Diego Miguel
 * Solís Balderas Jorge Pablo
