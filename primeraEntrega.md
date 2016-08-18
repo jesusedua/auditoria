@@ -33,7 +33,7 @@ Institución pública. Dependencia de la UNAM dedicada a impartir cursos y talle
 ---
 
 
-* Cortés Muciño Paola Itzayana @itzapicm
-* Huerta Solís Jesús
+* Cortés Muciño Paola Itzayana
+* Huerta Solís Jesús Eduardo
 * Meneses Ortega Diego Miguel
 * Solís Balderas Jorge Pablo
