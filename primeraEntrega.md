@@ -28,4 +28,12 @@ Institución pública. Dependencia de la UNAM dedicada a impartir cursos y talle
 ### **Informática**
 ---
 ## Beneficios y limitaciones:
+
+
 ---
+
+
+* Cortés Muciño Paola Itzayana @itzapicm
+* Huerta Solís Jesús
+* Meneses Ortega Diego Miguel
+* Solís Balderas Jorge Pablo
