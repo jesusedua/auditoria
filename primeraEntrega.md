@@ -38,7 +38,14 @@ A través de esta auditoría buscamos identificar y analizar posibles áreas de 
 + En materia de redes, ¿realizan sus procesos apegados a algún estándar o norma internacional?
     - En tal caso
         * ¿A cuál o cuáles?
-
++ ¿Cuál es el estándar de red que manejan?
++ ¿En qué topología está configurada su red?
++ ¿Con cuántos nodos cuentan?
++ ¿Con cuántos cuartos de telecomunicaiones cuentan?
++ ¿La red cuenta con protección eléctrica?
++ ¿Hay tierra física instalada?
++ ¿Cuáles son los servicios de red que manejan?
++ Si el cableado de la red está normalizado, ¿a qué estándar se apega?
 
 ------
 
