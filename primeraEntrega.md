@@ -45,7 +45,6 @@ A través de esta auditoría buscamos identificar y analizar posibles áreas de 
 + ¿La red cuenta con protección eléctrica?
 + ¿Hay tierra física instalada?
 + ¿Cuáles son los servicios de red que manejan?
-+ Si el cableado de la red está normalizado, ¿a qué estándar se apega?
 
 ------
 
