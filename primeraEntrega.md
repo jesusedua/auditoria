@@ -53,10 +53,10 @@ A través de esta auditoría buscamos identificar y analizar posibles áreas de 
     -Si
 
     - De ser así
-    - 
-    -   -formatos de reportes de voz y datos, de monitoreo, instalaciones.
     
         * ¿Qué tipo o tipos manejan?
+            
+            -formatos de reportes de voz y datos, de monitoreo, instalaciones.
         
     - En caso contrario
         * ¿Consideraría usted necesario que lo hicieran?
