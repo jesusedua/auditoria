@@ -134,16 +134,18 @@ Dependencia de la Facultad de Contaduría y Administración de la UNAM, encargad
 ## Área por auditar
 
 
-Telecomunicaciones.
+Tecnologías de información. 
+
+Encargada de manera general del diseño y configuración de la red y el hardware, así como el desarrollo, administración y mantenimiento de sistemas, bases de datos y servicios tecnológicos ocupados en la FCA.
 
 ------
 
 
 
-## Tipo de auditoría:
+## Tipo de auditoría Informática:
 
 
-### **Informática**
+### **Telecomunicaciones**
 
 
 ------
@@ -152,16 +154,27 @@ Telecomunicaciones.
 
 ## Beneficios y limitaciones:
 
+- Beneficios:
+- 1. Mayor satisfacción de los clientes.
+- 2. Mejor control de los procesos.
+- 3. Mejores condiciones para los trabajadores
+
+- Limitantes:
+- 1. Incompatibilidad de horarios.
+- 2. Poco interés por una auditoria.
+- 3. Acceso limitado a la informacón.
 
 -------
 
 
 
 ## Análisis FODA
+
 ### Fortalezas
-1. Primera
-2. Segunda
-3. Tercera
+
+1. Personal capacitado.
+2. Evaluación antes de hacer cambios o mejoras.
+3. Uso de estandares y buenas prácticas.
 
 
 ------
@@ -169,19 +182,19 @@ Telecomunicaciones.
 
 ### Oportunidades
 
-
-1. Primera
-2. Segunda
-3. Tercera
+1. Área valiosa para los estudiantes.
+2. Apoyo de la gente de las carrera de informática.
+3. Nula competencia.
 
 
 ------
 
 
 ### Debilidades
-1. Primera
-2. Segunda
-3. Tercera
+
+1. Falta de personal.
+2. Falta de procesos bien definidos.
+3. Espacio de trabajo poco adecuado.
 
 
 ------
@@ -189,7 +202,6 @@ Telecomunicaciones.
 
 ### Amenazas
 
-
-1. Primera
-2. Segunda
-3. Tercera
+1. Falta de apoyo.
+2. Dependencia económica.
+3. Alza de los precios de productos tecnológicos.
